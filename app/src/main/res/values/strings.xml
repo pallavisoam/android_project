@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">3M Cafeteria</string>
+    <string name="cafeteria_main_image_desc">Main Image of the 3M Cafeteria</string>
+
+    <array name="main_page_category_list">
+        <item>Snacks</item>
+        <item>Drinks</item>
+        <item>Stores</item>
+    </array>
+</resources>
